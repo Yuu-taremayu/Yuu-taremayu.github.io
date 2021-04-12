@@ -9,3 +9,8 @@ h2 {
 p {
 	color: green;
 }
+
+.account {
+	color: orange;
+	font-weight: bold;
+}
