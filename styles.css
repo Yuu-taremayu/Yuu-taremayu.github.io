@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 h1 {
 	color: red;
 }
@@ -13,4 +15,17 @@ p {
 .account {
 	color: orange;
 	font-weight: bold;
+}
+
+.navigation ul {
+	list-style-type: none;
+	display: flex;
+	margin: 0;
+	padding: 0;
+	border-left: 1px solid;
+}
+
+.navigation ul li {
+	padding: 6px 20px;
+	border-right: 1px solid;
 }
