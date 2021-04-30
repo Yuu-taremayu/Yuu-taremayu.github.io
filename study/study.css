@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+h2 {
+	color: blue;
+}
+
+p {
+	color: green;
+}
+
+.logo h1 {
+	text-align: center;
+}
+
+.account {
+	color: orange;
+	font-weight: bold;
+}
+
+.navigation ul {
+	list-style-type: none;
+	display: flex;
+	margin: 0;
+	padding: 0;
+	border-left: 1px solid;
+}
+
+.navigation ul li {
+	padding: 6px 20px;
+	border-right: 1px solid;
+}
