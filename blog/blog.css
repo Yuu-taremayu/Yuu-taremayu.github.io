@@ -31,6 +31,17 @@ p {
 }
 
 .navigation ul li {
-	padding: 6px 20px;
 	border-right: 1px solid;
+}
+
+.navigation ul li a,
+.navigation ul li a:link,
+.navigation ul li a:visited {
+	display: block;
+	text-decoration: none;
+	padding: 6px 20px;
+}
+
+.navigation ul li a:hover {
+	color: #888888;
 }
