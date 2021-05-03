@@ -12,6 +12,11 @@ p {
 	text-align: center;
 }
 
+.logo h1 a {
+	color: #888888;
+	text-decoration: none;
+}
+
 .account {
 	color: orange;
 	font-weight: bold;
