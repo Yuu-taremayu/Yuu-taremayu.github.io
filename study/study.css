@@ -1,13 +1,6 @@
 @charset "UTF-8";
 
-h2 {
-	color: blue;
-}
-
-p {
-	color: green;
-}
-
+/* header */
 .logo h1 {
 	text-align: center;
 }
@@ -15,11 +8,6 @@ p {
 .logo h1 a {
 	color: #888888;
 	text-decoration: none;
-}
-
-.account {
-	color: orange;
-	font-weight: bold;
 }
 
 .navigation ul {
@@ -44,4 +32,19 @@ p {
 
 .navigation ul li a:hover {
 	color: #888888;
+}
+
+/* main */
+p {
+	color: green;
+}
+
+/* footer */
+h3 {
+	color: blue;
+}
+
+.account {
+	color: orange;
+	font-weight: bold;
 }
